@@ -2,11 +2,9 @@
   <img src="./assets/gif/web.gif" alt="Icreatechs Logo">
   <h3>6-Month Web Development Training Roadmap</h3>
   <div align="center">
-
-[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/Web-Development-Roadmap)](https://github.com/carlcastanas/Web-Development-Roadmap/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/Web-Development-Roadmap)](https://github.com/carlcastanas/Web-Development-Roadmap/network/members)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/company/icreatechs-aus)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.Web-Development-Roadmap)
+  <h3> Contact me on LinkedIn....
+ 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/in/shaik-irfan-1aa343306/)
 
 </div>
 
@@ -141,21 +139,6 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 
 Congratulations! You've completed the 6-month web development training roadmap. Keep refining your skills, building new projects, and exploring new technologies to stay at the forefront of the ever-evolving web development landscape.
 
-## Web Development Jobs
-
-Here are the average annual salaries for web development jobs in different markets (as of 2023):
-
-| Job Role                 | Average Annual Salary (PHP)   | Average Annual Salary (USD)         | Average Annual Salary (AUD)         |
-|--------------------------|-------------------------------|------------------------------------|------------------------------------|
-| Frontend Developer       | ₱500,000 - ₱800,000          | ₱2,400,000 - ₱3,840,000          | ₱2,940,000 - ₱4,704,000          |
-| Backend Developer        | ₱600,000 - ₱900,000          | ₱2,880,000 - ₱4,320,000          | ₱3,480,000 - ₱5,220,000          |
-| Full-Stack Developer     | ₱700,000 - ₱1,000,000        | ₱3,360,000 - ₱4,800,000          | ₱4,020,000 - ₱5,760,000          |
-| UI/UX Designer           | ₱450,000 - ₱750,000          | ₱2,160,000 - ₱3,600,000          | ₱2,610,000 - ₱4,350,000          |
-| Web Developer (General)  | ₱400,000 - ₱650,000          | ₱1,920,000 - ₱3,120,000          | ₱2,340,000 - ₱3,800,000          |
-
-
-Please note that these salaries can vary based on factors such as location, experience, company size, and industry.
-
 ## Resume Writing Guide
 
 ## Introduction
@@ -166,10 +149,7 @@ Creating a professional and effective resume is crucial when applying for tech-r
 
 1. [Getting Started](#getting-started)
 2. [Resume Sections](#resume-sections)
-3. [Formatting Tips](#formatting-tips)
-4. [Content Tips](#content-tips)
-5. [Sample Tech Resume](#sample-tech-resume)
-6. [Additional Resources](#additional-resources)
+3. [Additional Resources](#additional-resources)
 
 ## Getting Started
 
@@ -211,141 +191,13 @@ List any tech certifications or training you've completed, such as programming c
 
 Include tech-related hobbies or activities that demonstrate your passion for technology and innovation.
 
-## Formatting Tips
-
-- **Consistency**: Maintain a consistent format for headings, bullet points, fonts, and spacing throughout your tech resume.
-
-- **Readability**: Use a clean, professional font and keep the font size between 10 and 12 points for body text.
-
-- **Bullet Points**: Use bullet points to highlight your tech responsibilities, achievements, and project details.
-
-- **Length**: Aim for a one-page tech resume for less experienced candidates and a maximum of two pages for more experienced tech professionals.
-
-- **File Format**: Save your tech resume as a PDF to ensure it retains its formatting across different devices.
-
-## Content Tips
-
-- **Tailor for the Tech Job**: Customize your tech resume for each job application by emphasizing the tech skills and experiences most relevant to the specific tech role.
-
-- **Quantify Achievements**: Use numbers and data to quantify your tech accomplishments whenever possible. This adds credibility to your skills.
-
-- **Action Words**: Start bullet points with tech-related action verbs to make your responsibilities and accomplishments more impactful.
-
-- **Be Honest**: Be truthful in your tech resume. Any false tech information can have serious consequences.
-
-## Sample Tech Resume
-
-Here's a sample tech resume that you can use as a reference:
-[Sample Tech Resume](https://cdn-careerservices.fas.harvard.edu/wp-content/uploads/sites/161/2023/08/College-CS-Resume-Example.pdf)
-
 ## Additional Resources
-
-- [Tech Resume Writing Tips by Dice](https://www.dice.com/tech-candidate/how-to-write-a-resume)
 - [GitHub's Guide to an Awesome GitHub Profile](https://github.com/features/actions)
 - [Coursera's Computer Science Courses](https://www.coursera.org/browse/computer-science)
 
-Remember, your tech resume should showcase your technical prowess and enthusiasm for the field. Regularly update it to reflect your latest projects and tech skills. Good luck with your tech job search!
-
-## Tips for Enhancing IT Skills
-
-- **Consistent Practice:** Regularly practice coding, problem-solving, and hands-on projects to reinforce your skills.
-- **Project Development:** Create personal projects to apply your newfound knowledge in practical scenarios.
-- **Collaboration:** Engage in coding communities, forums, and open-source projects to learn from peers and collaborate.
-- **Networking:** Attend tech meetups, conferences, and workshops to connect with industry professionals.
-- **Online Communities:** Participate in tech discussions on platforms like [Stack Overflow](https://stackoverflow.com/) and [Reddit](https://www.reddit.com/r/learnprogramming/).
-- **Stay Curious:** Explore emerging technologies and trends to stay up-to-date in the ever-evolving IT landscape.
-- **Continuous Learning:** Dedicate time to ongoing learning, even beyond the core curriculum.
-- **Company's Facebook Page:** Follow our [Icreatechs Facebook page](https://www.facebook.com/icreatechs) for additional IT insights and updates.
-- **Collaboration on Discord:** Join our [Discord group](https://discord.com/invite/44JBBe62fx) with 17k members to code and collaborate together.
-- **Facebook Group Community:** Be part of our [Icreatechs Community Facebook group](https://www.facebook.com/groups/icreatechs.community) with 90k members to collectively enhance coding skills.
-
-## How to Contribute
-
-We welcome contributions to improve and expand this IT Curriculum and Training Guide. Your contributions can help make this resource even more valuable for aspiring IT professionals. Here's a step-by-step guide on how you can contribute:
-
-1. **Fork the Repository:**
-
-   - Visit the [IT Curriculum and Training Guide repository](https://github.com/carlcastanas/it-curriculum-guide).
-   - Click the "Fork" button located at the upper right corner of the page. This will clone the repository to your GitHub account.
-
-2. **Clone Your Fork:**
-
-   - Open a terminal on your computer.
-   - Navigate to a directory where you want to store the project.
-   - Clone your forked repository by running the following command:
-
-     ```shell
-     git clone https://github.com/carlcastanas/web-development-roadmap.git
-     ```
-
-3. **Create a New Branch:**
-
-   - Move into the cloned repository's directory:
-
-     ```shell
-     cd web-development-roadmap
-     ```
-
-   - Create a new branch for your contributions. Choose a descriptive branch name that reflects the changes you'll make:
-
-     ```shell
-     git checkout -b add-new-resources
-     ```
-
-4. **Make Your Contributions:**
-
-   - Open the `README.md` file in a text editor of your choice.
-   - Make the necessary changes. You can add new resources, update existing content, or contribute in any way you feel would be valuable.
-
-5. **Commit and Push Your Changes:**
-
-   - Save the `README.md` file.
-   - Add your changes to the staging area:
-
-     ```shell
-     git add README.md
-     ```
-
-   - Commit your changes with a clear and concise commit message:
-
-     ```shell
-     git commit -m "Add new resources for Web Development"
-     ```
-
-   - Push your changes to your forked repository on GitHub:
-
-     ```shell
-     git push origin add-new-resources
-     ```
-
-6. **Create a Pull Request:**
-
-   - Visit your forked repository on GitHub.
-   - Click the green "Compare & pull request" button.
-   - Ensure the base repository is the original repository, and the base branch is `main`. The head repository and branch should be your fork and the branch you created.
-   - Provide a descriptive title and detailed description for your pull request.
-   - Click the "Create pull request" button.
-
-7. **Review and Collaborate:**
-
-   - Your pull request will be reviewed by the repository maintainers.
-   - Be open to feedback and participate in any discussions or requested changes.
-
-8. **Your Contribution Is Merged:**
-   - Once your pull request is approved and any necessary changes are made, it will be merged into the main repository.
-   - Congratulations! You've successfully contributed to the IT Curriculum and Training Guide.
-     ](.)
-
-## Resources
-
-- Online coding platforms (e.g., [Codecademy](https://www.codecademy.com/), [freeCodeCamp](https://www.freecodecamp.org/))
-- Interactive tutorials and documentation for frameworks (e.g., [React](https://reactjs.org/docs/getting-started.html), [Angular](https://angular.io/tutorial), [Vue.js](https://vuejs.org/v2/guide/))
-- Coding practice websites (e.g., [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/))
-- YouTube tutorials and online courses
-- Community forums for asking questions (e.g., [Stack Overflow](https://stackoverflow.com/))
-- Web development blogs and articles
-
 **Recommended YouTube Channels:**
+- [Apna College](https://www.youtube.com/@ApnaCollegeOfficial) - Offers beginner-friendly web development tutorials.
+- [CodeWithHarry](https://www.youtube.com/@CodeWithHarry) - Offers beginner-friendly web development tutorials.
 - [SuperSimpleDev](https://www.youtube.com/c/SuperSimpleDev) - Offers beginner-friendly web development tutorials.
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - Covers a wide range of web development topics.
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) - Provides in-depth tutorials on web technologies.
