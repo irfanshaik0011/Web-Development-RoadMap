@@ -22,11 +22,7 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 4. [Month 4](#month-4)
 5. [Month 5](#month-5)
 6. [Month 6](#month-6)
-7. [Web Development Jobs](#web-development-jobs)
-8. [Tips for building a resume](#Resume-Writing-Guide)
-9. [Tips for Improving IT Skills](#tips-for-improving-it-skills)
-10. [How to Contribute](#how-to-contribute)
-11. [Resources](#resources)
+7. [Tips for building a resume](#Resume-Writing-Guide)
 
 ## Month 1
 
